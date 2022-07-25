@@ -12,7 +12,7 @@ class StoriesViewController: UIViewController, UICollectionViewDataSource {
     var collection: UICollectionView?
    // var tableView = PostHomeTableViewCell()
     
-    let stories: [String] = ["profile3", "profile9", "profile2", "profile", "profile4", "profile5", "profile6", "profile7", "profile8", "profile", "profile1", "profile2", "profile3", "profile4", "profile5", "profile6", "profile7", "profile8", "profile9"]
+    let stories: [String] = ["profile3", "profile4", "profile1", "profile", "profile4", "profile5", "profile6", "profile7", "profile8", "profile", "profile1", "profile2", "profile3", "profile2", "profile5", "profile6", "profile7", "profile3", "profile9"]
     
     override func viewDidLoad() {
     super.viewDidLoad()
